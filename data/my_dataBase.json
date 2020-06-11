@@ -1,0 +1,29 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "fullname": "nessrine fekih ",
+      "gender": "femme",
+      "post": "Devlopper",
+      "departement": "web"
+    },
+    {
+      "fullname": "onsBN",
+      "gender": "femme",
+      "post": "dev",
+      "departement": "informatique",
+      "id": 2
+    }
+  ],
+  "contrat": [
+    {
+      "id": 1,
+      "employee": 1,
+      "day": "01/12/2020",
+      "entry_time": "08:00",
+      "leave_time": "14:00",
+      "absence": false,
+      "motif": null
+    }
+  ]
+}
